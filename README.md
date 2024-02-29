@@ -4,7 +4,7 @@ This repository hosts the Exploratory Data Analysis (EDA) conducted on a synthet
 
 **Notebook**
 
-Mobile Game Purchase Insights EDA Notebook
+https://github.com/KaanYigitsoy13/First_Purchase_Behaviour/blob/main/First_Purchase_Behaviour_Analysis.ipynb
 
 **Dataset Overview**
 
